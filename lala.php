@@ -1,3 +1,3 @@
 <?php
 
-echo 'lal
+ekó "lala";
