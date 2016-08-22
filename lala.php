@@ -1,3 +1,3 @@
 <?php
 
-ekó "lala";
+pekó "lala";
